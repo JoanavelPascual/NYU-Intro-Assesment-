@@ -1,5 +1,22 @@
 /* add code here to make your image 300px square */
-
+#pet{
+    size-adjust: 300px;
+}
 /* add code here to change the color and font family of your name/title */
-
+.gold {
+    color: gold; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body {background-color: darkolivegreen;}
 /* Bonus: change the color of your list elements */
+.lit {
+    color: goldenrod;
+}
+
+li {
+    color: goldenrod;
+}
+
+p {
+    border-radius: 5px;
+    font-style: italic;
+}
