@@ -12,4 +12,4 @@ changeSize.addEventListener("click", function() {
   else {
     image.style.height = "100px"
   }
-})
+}) 
